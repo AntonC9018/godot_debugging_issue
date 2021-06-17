@@ -1,5 +1,9 @@
 # godot_debugging_issue
 
+This repo has been created to illustrate a bug. See the [related issue](https://github.com/godotengine/godot-csharp-vscode/issues/17).
+
+# Instructions
+
 1. `git clone` somewhere.
 2. Open the folder in godot editor.
 3. Add the default `godot C#` debugging configuration.
